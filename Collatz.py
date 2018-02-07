@@ -2,7 +2,7 @@
 #Collaz conjecture excercise
 
 n = int(input("Please enter an integer: "))
-n=17
+
 
 while n>1:
     if n%2 == 0:
