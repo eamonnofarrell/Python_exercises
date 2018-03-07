@@ -5,7 +5,7 @@
 #What is the smallest positive number that is 
 # evenly divisible by all of the numbers from 1 to 20?
 
-#Code based on stack overflow solution
+#Code based on stack overflow solution - I am working on a revised solution. 
 #https://stackoverflow.com/questions/8024911/project-euler-5-in-python-how-can-i-optimize-my-solution
 
 def gcd(a, b):
