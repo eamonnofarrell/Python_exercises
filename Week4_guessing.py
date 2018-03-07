@@ -1,5 +1,5 @@
 #Eamonn O'Farrell
-# Suggested Week 4 tutorial - generate random number
+# Suggested Week 4 tutorial exercise - generate random number
 # Take user input to guess number
 
 from random import randint
