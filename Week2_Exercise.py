@@ -1,8 +1,5 @@
 # Eamonn O'Farell
-
 # Week2 Fibonacci excercise
-
-
 
 def fib(n):
 
@@ -22,10 +19,7 @@ def fib(n):
 
     n = n - 1
 
-  
-
   return i
-
 
 
 name = "OFarrell"
