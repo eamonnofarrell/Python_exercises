@@ -7,8 +7,9 @@
 #titles = ['petal length', 'petal width', 'sepal length', 'sepal width']
 
 with open("Data/iris.csv") as f:
+    #print headings
     print("Petal Length Petal Width  Sepal Length Sepal Width")
-    
+    #use line split to print in columns
     for line in f:
         print(line.split(',')[0],"        ",line.split(',')[1],
         "        ",line.split(',')[2],"        ",line.split(',')[3])
