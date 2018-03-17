@@ -1,4 +1,4 @@
-# Eamonn O'Farell
+#Eamonn O'Farell
 # Week2 Fibonacci excercise
 
 def fib(n):
@@ -10,8 +10,6 @@ def fib(n):
   j = 1
 
   n = n - 1
-
-
 
   while n >= 0:
 
@@ -33,7 +31,6 @@ firstno = ord(first)
 lastno = ord(last)
 
 x = firstno + lastno
-
 
 
 ans = fib(x)
