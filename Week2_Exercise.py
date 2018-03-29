@@ -1,14 +1,10 @@
 #Eamonn O'Farell
 # Week2 Fibonacci excercise
-
+#define function fib which returns the nth Fibonacci number
 def fib(n):
-
-  """This function returns the nth Fibonacci number."""
-
+#initialise i and j to 0 value
   i = 0
-
   j = 1
-
   n = n - 1
 
   while n >= 0:
@@ -18,7 +14,6 @@ def fib(n):
     n = n - 1
 
   return i
-
 
 name = "OFarrell"
 
