@@ -10,12 +10,15 @@
 #value at the start of your code. Add the script to your GitHub repository,
 #as per the instruction in the Assessments section.
 
+#prompt user to input number
 n = int(input("Please enter an integer: "))
-
+#use while loop to ensure coe runs as long as number is greater than 1
 while n>1:
+    #check if remainder is 0
     if n%2 == 0:
        n= n/2
        print (n)
+     #use else if to establish if result is bigger than 0 when divided by 2
     elif n/2  > 0:
        n= (n*3) +1
        print (n)
