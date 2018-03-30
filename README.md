@@ -1,3 +1,5 @@
+
+<img align="centre" src="GMIT.jpg">
 <img align="right" src="python.jpg">
 
 ##  Programming and Scripting Python weekly exercises 
@@ -10,7 +12,7 @@
 - [Week6](#week6)
 
 ---
-<img align="right" src="GMIT.jpg">
+
 
 
 ## Week1 
