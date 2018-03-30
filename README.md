@@ -10,7 +10,7 @@
 - [Week6](#week6)
 
 ---
-<img align="right" src="python.jpg">
+<img align="right" src="GMIT.jpg">
 
 
 ## Week1 
