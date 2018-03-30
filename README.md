@@ -13,6 +13,7 @@
 
 ---
 <img align="centre" src="GMIT.jpg">
+
 ## Introduction
 - My name is Eamonn O Farrell. I am a student of GMIT, completing a post graduate course by distance in Data Analytics. This GtHub repository has been created in order to store the weeky Python programming language exercises required for Programming and Scripting module. 
 
