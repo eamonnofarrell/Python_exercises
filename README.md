@@ -19,7 +19,7 @@
 - This GitHub repository has been created in order to store the weeky Python programming language exercises required for the Programming and Scripting module. 
 
 ## Week1 
-- The information relating to the exercise for week 1 is contained in file Week1&Week2.txt. [Press](https://www.Week1&Week2.txt)
+- The information relating to the exercise for week 1 is contained in file Week1&Week2.txt. [Press](file:///C:/Week1&Week2.txt)
 - The objective of the exercise is to calculate the nth Fibonacci number where n the sum of the first and last letters of your first name as numbers. 
 - *In mathematics, the Fibonacci numbers are the numbers in the following integer sequence, called the Fibonacci sequence, and characterized by the fact that every number after the first two is the sum of the two preceding ones 1,1,2,3,5,8,13,21,34,55...etc* Ref Wikipedia: https://en.wikipedia.org/wiki/Fibonacci_number
 
