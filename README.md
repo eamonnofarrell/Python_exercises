@@ -1,5 +1,7 @@
 ##  Programming and Scripting Python weekly exercises 
-
+<h1 align="right">
+  <img src="banner-galwaycampus_6.jpg" alt="GMIT Logo" Width=300 />
+</h1>
 
 - [Week1](#week1)
 - [Week2](#week2)
@@ -11,7 +13,7 @@
 ---
 
 <h1 align="center">
-  <img src="banner-galwaycampus_6.jpg" alt="GMIT Logo" />
+  <img src="banner-galwaycampus_6.jpg" alt="GMIT Logo" Width=300 />
 </h1>
 
 ## Week1 
