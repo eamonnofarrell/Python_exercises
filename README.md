@@ -107,8 +107,20 @@ with open("Data/iris.csv") as f:
 - Python exercise is detailed in file Week6_Factorial.py. Student is required to write a Python script containing a function called factorial(). 
 - The function takes a single input/argument which is a positive integer and returns its factorial.
 
+```javascript
+#define function factorial and process with argument p
+def factorial(p):
+    #check if parameter passed equals 1. If so return value 1
+    if  p== 0:
+        return 1
+    #otherwise, multiply p by p minus 1 until equal to 0 
+    else:
+        return p * factorial(p-1)
 
-
+#set parameter p, call function factorial and print result
+p=5
+print (factorial(p))
+```
 ## Table of Contents (Optional)
 
 > If you're `README` has a lot of info, section headers might be nice.
