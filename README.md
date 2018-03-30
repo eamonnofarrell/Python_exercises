@@ -18,7 +18,9 @@
 - My name is Eamonn O Farrell. I am a student of GMIT, completing a post graduate Higher Diploma in Science in Computing (Data Analytics). This GitHub repository has been created in order to store the weeky Python programming language exercises required for the Programming and Scripting module. 
 
 ## Week1 
-- Please go to file Week1&Week2.txt. The objective of the exercise is to calculate the nth Fibonacci number where n the sum of the first and last letters of your first name as numbers. *In mathematics, the Fibonacci numbers are the numbers in the following integer sequence, called the Fibonacci sequence, and characterized by the fact that every number after the first two is the sum of the two preceding ones 1,1,2,3,5,8,13,21,34,55...etc* Ref Wikipedia: https://en.wikipedia.org/wiki/Fibonacci_number
+- The information relating to the exercise for week 1 is contained in file Week1&Week2.txt. 
+- The objective of the exercise is to calculate the nth Fibonacci number where n the sum of the first and last letters of your first name as numbers. 
+- *In mathematics, the Fibonacci numbers are the numbers in the following integer sequence, called the Fibonacci sequence, and characterized by the fact that every number after the first two is the sum of the two preceding ones 1,1,2,3,5,8,13,21,34,55...etc* Ref Wikipedia: https://en.wikipedia.org/wiki/Fibonacci_number
 
 ## Week2 
 - exercise is also contained in file Week1&Week2.txt. Student is required to change the string variable in code from tutorial to contain own surname, and rerun it. Function ord() returns an integer representing the Unicode code point of that character.
