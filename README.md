@@ -1,7 +1,17 @@
 
-<h1 align="right">
-  <style="float: right;img src="python.jpg" alt="Python Logo" 0 />
-</h1>
+---
+
+## `right` alignment
+
+<img align="right" src="python.jpg">
+
+This is the code you need to align images to the right:
+```
+  
+  
+  
+  <img  src="python.jpg" alt="Python Logo">
+
 
 ##  Programming and Scripting Python weekly exercises 
 
