@@ -5,7 +5,7 @@
 ##  Programming and Scripting Python exercises Table of Contents 
 
 
-- [Pthon exercise 1](#week1)
+- [Pthon exercise 1](#week6)
 - [Features](#features)
 - [Contributing](#contributing)
 - [Team](#team)
@@ -25,7 +25,8 @@
 **Week5** excercise is contaned in Week5_Iris.py. Student is required to write a script that reads the Iris data set in 
 and prints the four numerical values on each row in a nice format. 
 
-**Week6** Python exercise is detailed in file Week6_Factorial.py. Student is required to write a Python script containing a function called factorial(). The function takes a single input/argument which is a positive integer and returns its factorial.
+#Week6
+Python exercise is detailed in file Week6_Factorial.py. Student is required to write a Python script containing a function called factorial(). The function takes a single input/argument which is a positive integer and returns its factorial.
 
 
 
