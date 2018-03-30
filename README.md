@@ -66,7 +66,28 @@ while n>1:
 - This weeks exercise is in file Week4_Euler.py. 
 - *Euler was a Swiss mathematician, physicist, astronomer, logician and engineer, who made important and influential discoveries in many branches of mathematics. Problem 5 from project Euler is laid out as follows. 2,520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.* 
 - Student is required to write a Python program using for and range to calculate the smallest positive number that is evenly divisible by all of the numbers from 1 to 20. Add your answer to your GitHub repository.
+```javascript
+def gcd(a, b):
+    """Calculate and return greatest common divisor using Euclid's Algorithm."""
+    while b:
+        a, b = b, a % b
+    return a
 
+def lcm(a, b):
+    """Return lowest common multiple."""
+    return a * b // gcd(a, b)
+
+def lcmm(*args):
+    """Return lcm of args."""   
+    return reduce(lcm, args)
+
+def lcm_seq(seq):
+    """Return lcm of sequence."""
+    return reduce(lcm, seq)
+
+solution = lcm_seq(xrange(1,21))
+print "lcm_seq():", solution
+```
 ## Week5 
 - Week 5 Python excercise is contaned in Week5_Iris.py. 
 - Student is required to write a script that reads the Iris data set in and prints the four numerical values on each row in a nice format. 
