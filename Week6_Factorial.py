@@ -8,7 +8,7 @@
 #You should, in your script, test the function by calling it 
 #with the values 5, 7, and 10.
 
-#define function factorial with parameter p
+#define function factorial and process with argument p
 def factorial(p):
     #check if parameter passed equals 1. If so return value 1
     if  p== 0:
