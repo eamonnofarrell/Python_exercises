@@ -6,6 +6,8 @@ Week2 exercise is also contained in file Week1&Week2.txt. Student is required to
 
 Week3
 
+In the video lectures we discussed the Collatz conjecture. Complete the exercise discussed in the Collatz conjecture video by writing a single Python script that starts with an integer and repeatedly applies the Collatz function (divide by 2 if even, multiply by three and 1 if odd) using a while loop and if statement. At each iteration, the current value of the integer should be printed to the screen. You can specify in your code the starting value of 17. If you wish to enhance your program, have the program ask the user for the integer instead of specifying a value at the start of your code. Add the script to your GitHub repository, as per the instruction in the Assessments section.
+
 Week5
 
 Week6 - Python script containing a function called factorial(). Function takes a single input/argument which is a positive integer and returns its factorial.
