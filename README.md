@@ -8,17 +8,10 @@ Week3 exercise submission is in file Week3.py and is focused on the Collatz conj
 
 Week4 exercise is in file Week4_Euler.py. Euler was a Swiss mathematician, physicist, astronomer, logician and engineer, who made important and influential discoveries in many branches of mathematics. Problem 5 from project Euler is laid out as follows. 2,520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder. Student is required to write a Python program using for and range to calculate the smallest positive number that is evenly divisible by all of the numbers from 1 to 20. Add your answer to your GitHub repository.
 
-Week5
+Week5 excercise is contaned in Week5_Iris.py. Student is required to write a script that reads the Iris data set in 
+and prints the four numerical values on each row in a nice format. 
 
 Week6 - Python script containing a function called factorial(). Function takes a single input/argument which is a positive integer and returns its factorial.
 
 
-My name is Eamonn, so the first and last letter of my name (E + N = 5 + 14) give the number 19.  The 19th Fibonacci number is 4181.
 
-Week 2 Exercise
-
-My surname is, OFarrell
-The first letter O, is number 79
-The last letter l, is number 108
-Fibonacci number 187, is 538522340430300790495419781092981030533L
-ord() returns an integer representing the Unicode code point of that character.
