@@ -1,6 +1,7 @@
 Week 1 Exercise
 
-My name is Eamonn, so the first and last letter of my name (E + N = 5 + 14) give the number 19.  The 19th Fibonacci number is 4181.
+My name is Eamonn, so the first and last letter of my name (E + N = 5 + 14) give the number 19.  
+The 19th Fibonacci number is 4181.
 
 Week 2 Exercise
 
