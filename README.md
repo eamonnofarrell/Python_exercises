@@ -1,12 +1,10 @@
 # Python_exercises
 Prog&amp;Script online exercises
-Week1 exercise is contained in file Week1&Week2.txt. The objective of the exercise is to calculate the nth Fibonacci number where n the sum of the first and last letters of your first name as numbers. In mathematics, the Fibonacci numbers are the numbers in the following integer sequence, called the Fibonacci sequence, and characterized by the fact that every number after the first two is the sum of the two preceding ones 1,1,2,3,5,8,13,21,34,55...etc Ref Wikipedia. https://en.wikipedia.org/wiki/Fibonacci_number
+Week1 exercise is contained in file Week1&Week2.txt. The objective of the exercise is to calculate the nth Fibonacci number where n the sum of the first and last letters of your first name as numbers. In mathematics, the Fibonacci numbers are the numbers in the following integer sequence, called the Fibonacci sequence, and characterized by the fact that every number after the first two is the sum of the two preceding ones 1,1,2,3,5,8,13,21,34,55...etc Ref Wikipedia: https://en.wikipedia.org/wiki/Fibonacci_number
 
 Week2 exercise is also contained in file Week1&Week2.txt. Student is required to change the string variable in code from tutorial to contain own surname, and rerun it. Function ord() returns an integer representing the Unicode code point of that character.
 
-Week3
-
-In the video lectures we discussed the Collatz conjecture. Complete the exercise discussed in the Collatz conjecture video by writing a single Python script that starts with an integer and repeatedly applies the Collatz function (divide by 2 if even, multiply by three and 1 if odd) using a while loop and if statement. At each iteration, the current value of the integer should be printed to the screen. You can specify in your code the starting value of 17. If you wish to enhance your program, have the program ask the user for the integer instead of specifying a value at the start of your code. Add the script to your GitHub repository, as per the instruction in the Assessments section.
+Week3 exercise submission is in file Week3.py and is focused on the Collatz conjecture. The Collatz conjecture is a conjecture in mathematics that concerns a sequence defined as follows: start with any positive integer n. Then each term is obtained from the previous term as follows: if the previous term is even, the next term is one half the previous term. Otherwise, the next term is 3 times the previous term plus 1. The conjecture is that no matter what value of n, the sequence will always reach 1. Ref Wikipedi:https://en.wikipedia.org/wiki/Collatz_conjecture. Complete the exercise discussed in the Collatz conjecture video by writing a single Python script that starts with an integer and repeatedly applies the Collatz function (divide by 2 if even, multiply by three and 1 if odd) using a while loop and if statement.
 
 Week5
 
