@@ -1,7 +1,7 @@
 
-<img  width=200 align="right" src="python.jpg">
-
 ##  Table of Contents
+
+<img  width=200 align="right" src="python.jpg">
 
 - [Introduction](#introduction)
 - [Week1](#week1)
