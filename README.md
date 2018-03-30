@@ -1,10 +1,20 @@
-# Programming and Scripting Python exercises 
-
 <h1 align="center">
   <img src="banner-galwaycampus_6.jpg" alt="GMIT Logo" />
 </h1>
 
-**Week1** Please go to file Week1&Week2.txt. The objective of the exercise is to calculate the nth Fibonacci number where n the sum of the first and last letters of your first name as numbers. *In mathematics, the Fibonacci numbers are the numbers in the following integer sequence, called the Fibonacci sequence, and characterized by the fact that every number after the first two is the sum of the two preceding ones 1,1,2,3,5,8,13,21,34,55...etc* Ref Wikipedia: https://en.wikipedia.org/wiki/Fibonacci_number
+##  Programming and Scripting Python exercises Table of Contents 
+
+
+- [Pthon exercise 1](#week1)
+- [Features](#features)
+- [Contributing](#contributing)
+- [Team](#team)
+- [FAQ](#faq)
+- [Support](#support)
+- [License](#license)
+
+#Week1 
+-Please go to file Week1&Week2.txt. The objective of the exercise is to calculate the nth Fibonacci number where n the sum of the first and last letters of your first name as numbers. *In mathematics, the Fibonacci numbers are the numbers in the following integer sequence, called the Fibonacci sequence, and characterized by the fact that every number after the first two is the sum of the two preceding ones 1,1,2,3,5,8,13,21,34,55...etc* Ref Wikipedia: https://en.wikipedia.org/wiki/Fibonacci_number
 
 **Week2** exercise is also contained in file Week1&Week2.txt. Student is required to change the string variable in code from tutorial to contain own surname, and rerun it. Function ord() returns an integer representing the Unicode code point of that character.
 
