@@ -1,5 +1,5 @@
 
-<img align="right" src="python.jpg">
+<img  width=200 align="right" src="python.jpg">
 
 ##  Table of Contents
 
