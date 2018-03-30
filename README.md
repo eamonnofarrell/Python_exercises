@@ -1,8 +1,8 @@
-##  Programming and Scripting Python weekly exercises 
+
 <h1 align="right">
   <img src="python.jpg" alt="Python Logo" 0 />
 </h1>
-
+##  Programming and Scripting Python weekly exercises 
 - [Week1](#week1)
 - [Week2](#week2)
 - [Week3](#week3)
