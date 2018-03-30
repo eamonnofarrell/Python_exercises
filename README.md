@@ -1,7 +1,7 @@
 
 <img align="right" src="python.jpg">
 
-##  Programming and Scripting Python weekly exercises 
+##  Table of Contents
 
 - [Introduction](#introduction)
 - [Week1](#week1)
