@@ -1,8 +1,13 @@
+<h1 align="left">
+  <img src="banner-galwaycampus_6.jpg" alt="GMIT Logo" Width=300 />
+</h1>
 
 <h1 align="right">
   <img src="python.jpg" alt="Python Logo" 0 />
 </h1>
+
 ##  Programming and Scripting Python weekly exercises 
+
 - [Week1](#week1)
 - [Week2](#week2)
 - [Week3](#week3)
@@ -12,9 +17,7 @@
 
 ---
 
-<h1 align="center">
-  <img src="banner-galwaycampus_6.jpg" alt="GMIT Logo" Width=300 />
-</h1>
+
 
 ## Week1 
 - Please go to file Week1&Week2.txt. The objective of the exercise is to calculate the nth Fibonacci number where n the sum of the first and last letters of your first name as numbers. *In mathematics, the Fibonacci numbers are the numbers in the following integer sequence, called the Fibonacci sequence, and characterized by the fact that every number after the first two is the sum of the two preceding ones 1,1,2,3,5,8,13,21,34,55...etc* Ref Wikipedia: https://en.wikipedia.org/wiki/Fibonacci_number
