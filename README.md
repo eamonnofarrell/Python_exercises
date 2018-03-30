@@ -1,9 +1,6 @@
-<h1 align="left">
-  <img src="banner-galwaycampus_6.jpg" alt="GMIT Logo" Width=300 />
-</h1>
 
 <h1 align="right">
-  <img src="python.jpg" alt="Python Logo" 0 />
+  <style="float: right;img src="python.jpg" alt="Python Logo" 0 />
 </h1>
 
 ##  Programming and Scripting Python weekly exercises 
