@@ -16,7 +16,7 @@
 
 ## Introduction
 - My name is Eamonn O Farrell. I am currently pursuing a post graduate Higher Diploma in Data Analytics at the Galway-Mayo Institiute of Technology.
-- The purpose of this GitHub repository is to host the weeky Python programming language exercises required for the Programming and Scripting module. 
+- The purpose of this GitHub repository is to host the weeky Python programming language data analytics exercises required for the Programming and Scripting module. 
 - [Python](https://www.python.org/) is an interpreted high-level programming language used for general-purpose programming.  
 
 ## Week1 
