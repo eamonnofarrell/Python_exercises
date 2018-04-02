@@ -15,8 +15,8 @@
 <img align="centre" src="GMIT.jpg">
 
 ## Introduction
-- My name is Eamonn O Farrell. I am a student of GMIT, completing a post graduate Higher Diploma in Science in Computing (Data Analytics). 
-- This GitHub repository has been created in order to store the weeky Python programming language exercises required for the Programming and Scripting module. 
+- My name is Eamonn O Farrell. I am currently pursuing a post graduate Higher Diploma in Data Analytics at the Galway-Mayo Institiute of Technology.
+- The purpose of this GitHub repository is to host the weeky Python programming language exercises required for the Programming and Scripting module. 
 - [Python](https://www.python.org/) is an interpreted high-level programming language used for general-purpose programming.  
 
 ## Week1 
