@@ -69,27 +69,27 @@ while n>1:
 - Euclid's Algorithm is used in the solution to find the smallest multiple
 - *The Euclidean algorithm is based on the principle that the greatest common divisor of two numbers does not change if the larger number is replaced by its difference with the smaller number. For example, 21 is the GCD of 252 and 105 (as 252 = 21 × 12 and 105 = 21 × 5), and the same number 21 is also the GCD of 105 and 252 − 105 = 147. Since this replacement reduces the larger of the two numbers, repeating this process gives successively smaller pairs of numbers until the two numbers become equal. When that occurs, they are the GCD of the original two numbers.* Ref Wikipedia: https://en.wikipedia.org/wiki/Euclidean_algorithm 
 
-```javascript
-def gcd(a, b):
-    """Calculate and return greatest common divisor using Euclid's Algorithm."""
-    while b:
-        a, b = b, a % b
-    return a
+```#Define function gcd
+def gcd(n1,n2):
+	remainder = 1
+	while remainder != 0:
+		remainder = n1%n2
+		n1 = n2
+		n2 = remainder
+	return n1
 
-def lcm(a, b):
-    """Return lowest common multiple."""
-    return a * b // gcd(a, b)
+#lcm of two numbers using euclid Algorithm
+#lcm = (number1*number2)/GCD(number1,number2)
+def lcm(n1,n2):
+	return (n1*n2)/gcd(n1,n2)
 
-def lcmm(*args):
-    """Return lcm of args."""   
-    return reduce(lcm, args)
-
-def lcm_seq(seq):
-    """Return lcm of sequence."""
-    return reduce(lcm, seq)
-
-solution = lcm_seq(xrange(1,21))
-print "lcm_seq():", solution
+#lcm of 2,3
+#You can also use (2*3)/gcd(2,3)
+l = lcm(2,3)
+#lcm of three numbers n1,n2,n3 is
+#lcm(lcm(n1,n2),n3)
+for i in range(4,21):
+	l = lcm(l,i)
 ```
 ## Week5 
 - Week 5 Python excercise is contaned in [Week5_Iris.py](./Week5_Iris.py).
