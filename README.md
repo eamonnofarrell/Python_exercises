@@ -34,7 +34,7 @@ The 19th Fibonacci number is 4181.
 - Student is required to change the string variable in code from tutorial to contain own surname, and rerun it. 
 - Function ord() returns an integer representing the Unicode code point of that character.
 
-```javascript
+```
 My surname is, OFarrell
 The first letter O, is number 79
 The last letter l, is number 108
@@ -47,7 +47,7 @@ ord() returns an integer representing the Unicode code point of that character.
 - *The Collatz conjecture is a conjecture in mathematics that concerns a sequence defined as follows: start with any positive integer n. Then each term is obtained from the previous term as follows: if the previous term is even, the next term is one half the previous term. Otherwise, the next term is 3 times the previous term plus 1. The conjecture is that no matter what value of n, the sequence will always reach 1.* Ref Wikipedia: https://en.wikipedia.org/wiki/Collatz_conjecture. 
 - Requirement for this exercise is to write a single Python script that starts with an integer and repeatedly applies the Collatz function (divide by 2 if even, multiply by three and 1 if odd) using a while loop and if statement.
 
-```javascript
+```
 #prompt user to input number
 n = int(input("Please enter an integer: "))
 #use while loop to ensure coe runs as long as number is greater than 1
@@ -94,8 +94,10 @@ for i in range(4,21):
 ## Week5 
 - Week 5 Python excercise is contaned in [Week5_Iris.py](./Week5_Iris.py).
 - Student is required to write a script that reads the Iris data set in and prints the four numerical values on each row in a nice format. 
+- *The Iris Data Set is a small dataset from 1936 introduced by the British statistician and biologist Ronald Fisher. It is often used for testing machine learning algorithms and visualizations (for example, Scatter Plot). Each row of the table represents an iris flower, including its species and dimensions of its botanical parts, sepal and petal, in centimeters.* Ref Wikipedia
+- The solution uses method line.split() to return a list of all the words in the string. 
 
-```javascript
+```
 with open("Data/iris.csv") as f:
     #print headings
     print("Petal Length Petal Width  Sepal Length Sepal Width")
@@ -110,7 +112,7 @@ with open("Data/iris.csv") as f:
 - Python exercise is detailed in file [Week6_Factorial.py](./Week6_Factorial.py). Student is required to write a Python script containing a function called factorial(). 
 - The function takes a single input/argument which is a positive integer and returns its factorial.
 
-```javascript
+```
 #define function factorial and process with argument p
 def factorial(p):
     #check if parameter passed equals 1. If so return value 1
