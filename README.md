@@ -63,9 +63,11 @@ while n>1:
 ```
 
 ## Week4 
-- This weeks exercise is in file [Week4_Euler5.py](./Week4_Euler5.py)
-- *Euler was a Swiss mathematician, physicist, astronomer, logician and engineer, who made important and influential discoveries in many branches of mathematics. Problem 5 from project Euler is laid out as follows. 2,520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.*  Ref Wikipedi:a https://en.wikipedia.org/wiki/Leonhard_Euler
+- This weeks exercise is saved in file [Week4_Euler5.py](./Week4_Euler5.py)
+- *Euler was a Swiss mathematician, physicist, astronomer, logician and engineer, who made important and influential discoveries in many branches of mathematics. Problem 5 from project Euler is laid out as follows. 2,520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.*  Ref Wikipedi: https://en.wikipedia.org/wiki/Leonhard_Euler
 - Student is required to write a Python program using for and range to calculate the smallest positive number that is evenly divisible by all of the numbers from 1 to 20. 
+- Euclid's Algorithm is used in the solution to find the smallest multiple
+- *The Euclidean algorithm is based on the principle that the greatest common divisor of two numbers does not change if the larger number is replaced by its difference with the smaller number. For example, 21 is the GCD of 252 and 105 (as 252 = 21 × 12 and 105 = 21 × 5), and the same number 21 is also the GCD of 105 and 252 − 105 = 147. Since this replacement reduces the larger of the two numbers, repeating this process gives successively smaller pairs of numbers until the two numbers become equal. When that occurs, they are the GCD of the original two numbers.* Ref Wikipedia: https://en.wikipedia.org/wiki/Euclidean_algorithm 
 
 ```javascript
 def gcd(a, b):
