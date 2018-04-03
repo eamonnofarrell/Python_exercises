@@ -65,7 +65,7 @@ while n>1:
 ## Week4 
 - This weeks exercise is in file [Week4_Euler5.py](./Week4_Euler5.py)
 - *Euler was a Swiss mathematician, physicist, astronomer, logician and engineer, who made important and influential discoveries in many branches of mathematics. Problem 5 from project Euler is laid out as follows. 2,520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.*  Ref Wikipedi:a https://en.wikipedia.org/wiki/Leonhard_Euler
-- Student is required to write a Python program using for and range to calculate the smallest positive number that is evenly divisible by all of the numbers from 1 to 20. Add your answer to your GitHub repository.
+- Student is required to write a Python program using for and range to calculate the smallest positive number that is evenly divisible by all of the numbers from 1 to 20. 
 
 ```javascript
 def gcd(a, b):
