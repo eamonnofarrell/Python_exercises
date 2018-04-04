@@ -111,6 +111,8 @@ with open("Data/iris.csv") as f:
 
 - Python exercise is detailed in file [Week6_Factorial.py](./Week6_Factorial.py). Student is required to write a Python script containing a function called factorial(). 
 - The function takes a single input/argument which is a positive integer and returns its factorial.
+- In mathematics, the factorial of a non-negative integer n, denoted by n!, is the product of all positive integers less than or equal to n. For example, 5! = 5 x 4 x 3 x 2 x 1 = 120.
+- Solution is to define a function factorial() that takes an integer p and multiplies p by p - 1 until p equals 0.
 
 ```
 #define function factorial and process with argument p
